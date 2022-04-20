@@ -1,6 +1,6 @@
 # Site settings
-title: minzhikou
-description: welcome to <a href="https://www.minzhikou.com">minzhikou</a>
+title: 防民之口甚于防川
+description: 欢迎来到<a href="https://www.minzhikou.com">民之口</a>，防民之口甚于防川，这是一句古训，但恐怕是执政者在中国特色的民主制度下，最不希望大家谈论的一句话。可能考过申论的人智商可以碾压人民，还可以代表人民，尤其是代表多数人时的那种小确幸或者忍受千夫所指时的忍辱负重，您辛苦了。有感于身边几乎每天都在发生的侵权事件，少数群体的不公平待遇，但又深感无奈。你们做的不够好，我们不可以不理解你们，但也要憋住不说出来。每个人都不是圣人，我们只是在错误和纠正错误路上不断前行。
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: minzhikou
